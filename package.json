@@ -1,0 +1,17 @@
+{
+  "name": "Base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/handler/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Punish",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.3"
+  }
+}
